@@ -37,7 +37,6 @@ initial_radius, final_radius = c_and_mo_circle()
 
 def results():
     print("------------")
-    print(book_info)
     print(f"Исходный радиус!: {initial_radius}")
     print(f"Новый радиус!: {final_radius}")
 
